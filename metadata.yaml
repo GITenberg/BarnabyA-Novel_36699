@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '38431'
     url: http://www.gutenberg.org/2009/agents/38431
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36699#BarnabyA-Novel
 gutenberg_issued: '2011-07-11'
 gutenberg_type: Text
 identifiers:
